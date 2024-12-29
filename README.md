@@ -1,6 +1,6 @@
  👋 Hi, I’m @harika1807
  # 💫 About Me:
-I,m currently learning web develeopment and programming languages like python and Java.<br>I'm looking to collaborate on any mini projects to learn something new.<br>I'm interested in coding.
+I'm currently learning web develeopment and programming languages like python and Java.<br>I'm looking to collaborate on any mini projects to learn something new.<br>I'm interested in coding.
 
 
 ## 🌐 Socials:
